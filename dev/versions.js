@@ -1,5 +1,5 @@
-var PUBLISH_ROOT = '/epistlesofadifferenttime/latest';
-var PUBLISH_VERSION = "latest";
+var PUBLISH_ROOT = '/epistlesofadifferenttime/dev';
+var PUBLISH_VERSION = "dev";
 var PUBLISH_VERSIONS = [
     ["latest","/epistlesofadifferenttime/latest/index.html"],
     ["dev","/epistlesofadifferenttime/dev/index.html"],
