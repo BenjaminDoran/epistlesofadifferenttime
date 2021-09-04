@@ -1,0 +1,7 @@
+name = "epistlesofadifferenttime"
+uuid = "e34e8971-2ef0-4fa3-8fe6-13e029a4e49c"
+authors = ["BenjaminDoran <20494558+BenjaminDoran@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Publish = "f065f642-d108-4f50-8aa5-6749150a895a"
